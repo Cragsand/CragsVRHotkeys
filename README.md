@@ -1,5 +1,7 @@
 ![screenshot](screenshot.png)
 
+## VR force restart shortcuts
+
 ## Description
 
 A simple AutoHotkey script that forcefully terminates SteamVR, VRChat and restarts the game as quickly as possible. 
