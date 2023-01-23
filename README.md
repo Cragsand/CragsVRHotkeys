@@ -13,4 +13,4 @@ A simple AutoHotkey script that forcefully terminates SteamVR, VRChat and restar
 - Run vrhotkeys.exe or
 - Run vrhotkeys.ahk after installing https://www.autohotkey.com
 
-The executable is compiled with AutoHotkey built-in but you can also run the script by itself if you install AutoHotkey. To compile the script yourself right click  the source .ahk file and selecting "Compile Script".
+The executable is compiled with AutoHotkey built-in but you can also run the script by itself if you install AutoHotkey. To compile the script yourself right click  the source .ahk file and select "Compile Script".
