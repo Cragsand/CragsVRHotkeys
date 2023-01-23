@@ -3,7 +3,7 @@
 ## Description
 
 A simple AutoHotkey script that forcefully terminates SteamVR, VRChat and restarts the game as quickly as possible. 
-- Useful if you crash/freeze 
+- Useful if you crash/freeze while roleplaying
 - Also terminates EAC since that can freeze and get stuck running in the background
 - Source code all in vrhotkeys.ahk so you can modify it using Notepad or any other text editor 
 
