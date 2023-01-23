@@ -7,5 +7,5 @@ A simple AutoHotkey script that forcefully terminates SteamVR and VRChat to rest
 
 The executable is compiled with AutoHotkey built-in but you can also run the script by itself if you install https://www.autohotkey.com. You can also compile it yourself by right clicking the source .ahk file and clicking "Compile Script".
 
-###[Download](https://github.com/Cragsand/CragsVRHotkeys/archive/refs/heads/main.zip)
+### [Download](https://github.com/Cragsand/CragsVRHotkeys/archive/refs/heads/main.zip)
 
