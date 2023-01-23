@@ -11,7 +11,7 @@ Gui Add, Button, x110 y20 w100 h23 gRestartSteamVR, RestartSteamVR
 Gui Add, Button, x210 y20 w100 h23 gRestartBoth, Restart both
 Gui Add, Button, x310 y20 w100 h23 gWindowsButton, Windows Button
 ;Gui Add, Button, x350 y8 w110 h23 gTaskManager, Task Manager
-Gui Show, %gui_position% w250 h100 w420 h50, VR Force Restart shortcuts by Crag V1.1
+Gui Show, %gui_position% w250 h100 w420 h50, VR force restart shortcuts V1.1
 
 ; Get EXE paths
 ;RegRead, VRChatPath, HKEY_CURRENT_USER\System\GameConfigStore\Children\dd15502a-4fd0-48a3-9ea7-bf3f0c5a60ff, MatchedExeFullPath
